@@ -1,5 +1,8 @@
 # Clawdmeter
 
+aqui se puede comprar el dispositivo: https://www.waveshare.com/esp32-s3-touch-amoled-2.16.htm?sku=33969 
+
+
 A small ESP32 dashboard I made for my desk to keep an eye on Claude Code usage.
 
 It runs on a [Waveshare ESP32-S3-Touch-AMOLED-2.16](https://www.waveshare.com/esp32-s3-touch-amoled-2.16.htm?&aff_id=149786) as well as a few other alternative boards and pairs over Bluetooth, the splash screen plays pixel-art Clawd animations that get
